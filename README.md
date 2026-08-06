@@ -108,6 +108,7 @@ I am looking for internships or junior roles where I can contribute in backend, 
 
 | Priority | Project | Type | Stack | Status |
 |---|---|---|---|---|
+| Core | POS Restaurante | Desktop business system | Electron, React, SQLite, Vitest | Private |
 | Core | [FinanTrack](https://github.com/epinki07/Proyecto-ArquitecturaDeSoftware) | Android finance app | Kotlin, Room, MVVM, .NET | Public |
 | Core | [WebTrack 2](https://webtrack-2.pages.dev) | Product case study | JavaScript, Supabase, Cloudflare Pages | Demo public, code private |
 | Core | [Pokedex API](https://github.com/epinki07/Pokedex-api) | REST API | Python, FastAPI, JSON | Public |
