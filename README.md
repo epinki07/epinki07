@@ -54,24 +54,60 @@ Backend, product development, automation and cloud-connected applications.
     <td align="center"><strong>React</strong></td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"></td>
+    <td align="center"><strong>Electron</strong></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></td>
     <td align="center"><strong>.NET</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></td>
+    <td align="center"><strong>Android / Room / MVVM</strong></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
     <td align="center"><strong>PostgreSQL</strong></td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=111" alt="Supabase"></td>
+    <td align="center"><strong>Supabase / RLS</strong></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
     <td align="center"><strong>MySQL</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"></td>
+    <td align="center"><strong>SQLite</strong></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></td>
     <td align="center"><strong>Amazon AWS</strong></td>
   </tr>
   <tr>
+    <td><img src="https://img.shields.io/badge/Cloudflare_Pages-F38020?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages"></td>
+    <td align="center"><strong>Cloudflare Pages</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Cairo%20%2F%20StarkNet-6A4CFF?style=for-the-badge" alt="Cairo and StarkNet"></td>
+    <td align="center"><strong>Cairo / StarkNet</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></td>
+    <td align="center"><strong>Streamlit</strong></td>
+  </tr>
+  <tr>
     <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111" alt="Linux"></td>
     <td align="center"><strong>Linux</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux"></td>
+    <td align="center"><strong>Kali Linux</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Cisco_Packet_Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer"></td>
+    <td align="center"><strong>Cisco Packet Tracer</strong></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
@@ -89,7 +125,10 @@ Backend, product development, automation and cloud-connected applications.
     <img src="assets/aws-cloud-operations.png" width="165" alt="AWS Academy Cloud Operations">
   </a>
   <a href="https://www.credly.com/badges/a288bd71-a73c-40fb-9f00-145ce018b2ae/public_url">
-    <img src="https://img.shields.io/badge/Cisco-Network%20Technician-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Network Technician">
+    <img src="assets/cisco-network-technician.png" width="155" alt="Cisco Network Technician Career Path">
+  </a>
+  <a href="https://epinki07.github.io/portfolio/cv/starknet-bootcamp-merida-2026.png">
+    <img src="assets/starknet-bootcamp-merida-2026.png" width="155" alt="StarkNet Bootcamp Merida 2026">
   </a>
   <a href="https://epinki07.github.io/portfolio/cv/member-ieee-2026.pdf">
     <img src="https://img.shields.io/badge/IEEE-Member-00629B?style=for-the-badge" alt="IEEE Member">
