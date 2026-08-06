@@ -1,136 +1,138 @@
-# Diego Ramirez Magana
+<div align="center">
 
-Software Engineering and Digital Business student based in Merida, Mexico.
+# Hi, I'm Diego Ramirez Magana
 
-I am looking for internships or junior roles where I can contribute in backend, product development, automation and cloud-connected applications. Java is my strongest language; I also build with Python, Kotlin, JavaScript and cloud tools.
+### Software Engineering and Digital Business student
 
-**Portfolio:** https://epinki07.github.io/portfolio/  
-**LinkedIn:** https://www.linkedin.com/in/diego-ramirez-maga%C3%B1a-b15022298/  
-**Email:** dramirezmagana@gmail.com
+Backend, product development, automation and cloud-connected applications.
 
----
+<a href="mailto:dramirezmagana@gmail.com"><img src="https://img.shields.io/badge/-Email-4285F4?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://github.com/epinki07"><img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/diego-ramirez-maga%C3%B1a-b15022298/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://epinki07.github.io/portfolio/"><img src="https://img.shields.io/badge/-Portfolio-2E7D32?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"></a>
 
-## Certifications
+</div>
 
-<table>
-  <tr>
-    <td align="center" width="20%">
-      <a href="https://www.credly.com/badges/35bd83cd-ca8d-4fe8-8dba-957d98e2ddbc/public_url">
-        <img src="assets/aws-cloud-foundations.png" width="130" alt="AWS Academy Cloud Foundations"/>
-      </a>
-      <br/>
-      <sub>AWS Cloud Foundations</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://epinki07.github.io/portfolio/cv/AWS_Academy_Cloud_Operations_Diego_Ramirez_2026.pdf">
-        <img src="assets/aws-cloud-operations.png" width="130" alt="AWS Academy Cloud Operations"/>
-      </a>
-      <br/>
-      <sub>AWS Cloud Operations</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://www.credly.com/badges/a288bd71-a73c-40fb-9f00-145ce018b2ae/public_url">
-        <img src="https://img.shields.io/badge/Cisco-Network%20Technician-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Network Technician"/>
-      </a>
-      <br/>
-      <sub>Network Technician</sub>
-    </td>
-    <td align="center" width="20%">
-      <a href="https://epinki07.github.io/portfolio/cv/member-ieee-2026.pdf">
-        <img src="https://img.shields.io/badge/IEEE-Member-00629B?style=for-the-badge" alt="IEEE Member"/>
-      </a>
-      <br/>
-      <sub>IEEE Member</sub>
-    </td>
-  </tr>
-</table>
+## About Me
 
----
+<ul>
+  <li>Software Engineering and Digital Business student based in Merida, Mexico.</li>
+  <li>Focused on backend systems, mobile apps, product validation and cloud-connected tools.</li>
+  <li>Java is my strongest language; I also build with Python, Kotlin, JavaScript and .NET.</li>
+  <li>AWS Academy training, Cisco Networking Academy training and IEEE member.</li>
+</ul>
 
 ## Technologies
 
 <table>
   <tr>
-    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/></td>
-    <td><strong>Python</strong></td>
-    <td>FastAPI, scripts, data analysis, Streamlit</td>
+    <td><img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"></td>
+    <td align="center"><strong>Java</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Java-F89820?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/></td>
-    <td><strong>Java</strong></td>
-    <td>Main language, OOP, layered apps, Swing, JavaFX</td>
+    <td><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></td>
+    <td align="center"><strong>Python</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/></td>
-    <td><strong>Kotlin</strong></td>
-    <td>Android, Room, MVVM</td>
+    <td><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"></td>
+    <td align="center"><strong>Kotlin</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" alt="JavaScript"/></td>
-    <td><strong>JavaScript</strong></td>
-    <td>Web apps, PWA, Node.js</td>
+    <td><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=111" alt="JavaScript"></td>
+    <td align="center"><strong>JavaScript</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></td>
-    <td><strong>Git</strong></td>
-    <td>Version control, GitHub workflows</td>
+    <td><img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"></td>
+    <td align="center"><strong>Spring Boot</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/></td>
-    <td><strong>PostgreSQL</strong></td>
-    <td>Supabase, RLS, relational data</td>
+    <td><img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"></td>
+    <td align="center"><strong>FastAPI</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/></td>
-    <td><strong>MySQL</strong></td>
-    <td>Academic backend and Java practice</td>
+    <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></td>
+    <td align="center"><strong>React</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111" alt="Linux"/></td>
-    <td><strong>Linux</strong></td>
-    <td>Terminal, labs, development environment</td>
+    <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></td>
+    <td align="center"><strong>.NET</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/></td>
-    <td><strong>AWS</strong></td>
-    <td>Cloud Foundations and Cloud Operations training</td>
+    <td><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"></td>
+    <td align="center"><strong>PostgreSQL</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/></td>
-    <td><strong>.NET</strong></td>
-    <td>API and beta validation support modules</td>
+    <td><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"></td>
+    <td align="center"><strong>MySQL</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"></td>
+    <td align="center"><strong>Amazon AWS</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111" alt="Linux"></td>
+    <td align="center"><strong>Linux</strong></td>
+  </tr>
+  <tr>
+    <td><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></td>
+    <td align="center"><strong>Git</strong></td>
   </tr>
 </table>
 
----
+## Certifications
 
-## Selected work
+<div align="center">
+  <a href="https://www.credly.com/badges/35bd83cd-ca8d-4fe8-8dba-957d98e2ddbc/public_url">
+    <img src="assets/aws-cloud-foundations.png" width="165" alt="AWS Academy Cloud Foundations">
+  </a>
+  <a href="https://epinki07.github.io/portfolio/cv/AWS_Academy_Cloud_Operations_Diego_Ramirez_2026.pdf">
+    <img src="assets/aws-cloud-operations.png" width="165" alt="AWS Academy Cloud Operations">
+  </a>
+  <a href="https://www.credly.com/badges/a288bd71-a73c-40fb-9f00-145ce018b2ae/public_url">
+    <img src="https://img.shields.io/badge/Cisco-Network%20Technician-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Network Technician">
+  </a>
+  <a href="https://epinki07.github.io/portfolio/cv/member-ieee-2026.pdf">
+    <img src="https://img.shields.io/badge/IEEE-Member-00629B?style=for-the-badge" alt="IEEE Member">
+  </a>
+</div>
 
-| Priority | Project | Type | Stack | Status |
-|---|---|---|---|---|
-| Core | POS Restaurante | Desktop business system | Electron, React, SQLite, Vitest | Private |
-| Core | [FinanTrack](https://github.com/epinki07/Proyecto-ArquitecturaDeSoftware) | Android finance app | Kotlin, Room, MVVM, .NET | Public |
-| Core | [WebTrack 2](https://webtrack-2.pages.dev) | Product case study | JavaScript, Supabase, Cloudflare Pages | Demo public, code private |
-| Core | [Pokedex API](https://github.com/epinki07/Pokedex-api) | REST API | Python, FastAPI, JSON | Public |
-| Core | [Market Backend](https://github.com/epinki07/market-backend-2026-3-b) | Spring Boot backend | Java, JPA, MapStruct, OpenAPI | Public |
-| Supporting | [SQAD](https://github.com/epinki07/SQAD) | Food quality control system | Java, OOP, CSV | Public |
-| Supporting | [Food Sense](https://github.com/epinki07/food-sense) | IoT monitoring project | Node.js, ESP32, web | Public |
-| Supporting | [starknet-contracts](https://github.com/epinki07/starknet-contracts) | Smart contracts | Cairo, StarkNet | Public |
-| Practice | [Conecta 4](https://github.com/epinki07/conecta4) | Algorithm project | Python, MinMax, Alpha-Beta | Public |
+## Professional Focus
 
-Lower-signal exercises are intentionally not highlighted here. They remain useful as learning evidence, but the profile prioritizes projects that best represent current professional direction.
+<ul>
+  <li>Backend APIs with Java, Spring Boot, Python and FastAPI.</li>
+  <li>Mobile and desktop business tools with Kotlin, Electron, React and SQLite.</li>
+  <li>Cloud-connected products using Supabase, Cloudflare Pages and AWS training foundations.</li>
+  <li>Project documentation, testing, repository cleanup and responsible publication practices.</li>
+</ul>
 
----
+## Projects
+
+<ul>
+  <li><strong>SistemaFacturacion</strong> - REST invoicing API with Spring Boot, JPA, H2, MapStruct, Swagger and service tests. Code private.</li>
+  <li><strong>POS Restaurante</strong> - desktop POS system with Electron, React, SQLite, reports and 62 automated tests. Code private.</li>
+  <li><strong>FinanTrack</strong> - Android finance app using Kotlin, Room, MVVM and .NET support modules. Code private.</li>
+  <li><strong><a href="https://webtrack-2.pages.dev">WebTrack 2</a></strong> - product case study deployed as a public demo with private source code.</li>
+  <li><strong>Pokedex API</strong> - REST API with Python, FastAPI and JSON data. Code private.</li>
+  <li><strong>Market Backend</strong> - Spring Boot backend with JPA, MapStruct and OpenAPI documentation. Code private.</li>
+  <li><strong>SQAD</strong> - food quality control system with Java, OOP and CSV persistence. Code private.</li>
+  <li><strong>Conecta 4</strong> - algorithm project using MinMax and Alpha-Beta pruning in Python. Code private.</li>
+</ul>
+
+Selected codebases are kept private to protect academic work, product ideas and implementation details. Public demos and case-study summaries are shared through the portfolio when available.
 
 ## Activity
 
-<p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=epinki07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epinki07&layout=compact&theme=github_dark&hide_border=true" alt="Top languages"/>
-</p>
-
----
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=epinki07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epinki07&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+</div>
 
 ## Use and rights
 
 My public repositories and portfolio are shared for professional review and learning reference only. Unless a repository explicitly includes a license, all rights are reserved and no permission is granted to copy, redistribute, sell, sublicense or reuse the code, design, text, certificates or project materials as the base for another portfolio, product or academic delivery.
+
+<div align="center">
+
+## Thank you for your interest in my profile.
+
+</div>
