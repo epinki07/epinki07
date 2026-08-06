@@ -109,16 +109,16 @@ Backend, product development, automation and cloud-connected applications.
 
 <ul>
   <li><strong><a href="https://github.com/epinki07/-SistemaFacturacion">SistemaFacturacion</a></strong> - REST invoicing API with Spring Boot, JPA, H2, MapStruct, Swagger and service tests.</li>
-  <li><strong>POS Restaurante</strong> - desktop POS system with Electron, React, SQLite, reports and 62 automated tests. Code private.</li>
-  <li><strong>FinanTrack</strong> - Android finance app using Kotlin, Room, MVVM and .NET support modules. Code private.</li>
-  <li><strong><a href="https://webtrack-2.pages.dev">WebTrack 2</a></strong> - product case study deployed as a public demo with private source code.</li>
+  <li><strong><a href="https://github.com/epinki07/pos-restaurante">POS Restaurante</a></strong> - desktop POS system with Electron, React, SQLite, reports and 62 automated tests. Closed source.</li>
+  <li><strong><a href="https://github.com/epinki07/FinanTrack">FinanTrack</a></strong> - Android finance app using Kotlin, Room, MVVM and .NET support modules. Closed source.</li>
+  <li><strong><a href="https://github.com/epinki07/webtrack-2">WebTrack 2</a></strong> - product case study with a <a href="https://webtrack-2.pages.dev">public demo</a> and closed source implementation.</li>
   <li><strong><a href="https://github.com/epinki07/Pokedex-api">Pokedex API</a></strong> - REST API with Python, FastAPI and JSON data.</li>
   <li><strong><a href="https://github.com/epinki07/market-backend-2026-3-b">Market Backend</a></strong> - Spring Boot backend with JPA, MapStruct and OpenAPI documentation.</li>
   <li><strong><a href="https://github.com/epinki07/SQAD">SQAD</a></strong> - food quality control system with Java, OOP and CSV persistence.</li>
   <li><strong><a href="https://github.com/epinki07/conecta4">Conecta 4</a></strong> - algorithm project using MinMax and Alpha-Beta pruning in Python.</li>
 </ul>
 
-High-value product codebases are kept private to protect implementation details. Public repositories are used for APIs, academic evidence, algorithms and lower-risk technical samples.
+High-value product codebases are closed source. Their public repositories exist as portfolio showcases with summaries, demos or evidence, while implementation details remain private.
 
 ## Activity
 
