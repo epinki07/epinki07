@@ -50,14 +50,6 @@ Backend, product development, automation and cloud-connected applications.
     <td align="center"><strong>FastAPI</strong></td>
   </tr>
   <tr>
-    <td><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"></td>
-    <td align="center"><strong>React</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=electron&logoColor=white" alt="Electron"></td>
-    <td align="center"><strong>Electron</strong></td>
-  </tr>
-  <tr>
     <td><img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"></td>
     <td align="center"><strong>.NET</strong></td>
   </tr>
@@ -92,10 +84,6 @@ Backend, product development, automation and cloud-connected applications.
   <tr>
     <td><img src="https://img.shields.io/badge/Cairo%20%2F%20StarkNet-6A4CFF?style=for-the-badge" alt="Cairo and StarkNet"></td>
     <td align="center"><strong>Cairo / StarkNet</strong></td>
-  </tr>
-  <tr>
-    <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"></td>
-    <td align="center"><strong>Streamlit</strong></td>
   </tr>
   <tr>
     <td><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=111" alt="Linux"></td>
@@ -139,7 +127,7 @@ Backend, product development, automation and cloud-connected applications.
 
 <ul>
   <li>Backend APIs with Java, Spring Boot, Python and FastAPI.</li>
-  <li>Mobile and desktop business tools with Kotlin, Electron, React and SQLite.</li>
+  <li>Mobile and desktop business tools with Kotlin, Android, Room and SQLite.</li>
   <li>Cloud-connected products using Supabase, Cloudflare Pages and AWS training foundations.</li>
   <li>Project documentation, testing, repository cleanup and responsible publication practices.</li>
 </ul>
@@ -148,7 +136,7 @@ Backend, product development, automation and cloud-connected applications.
 
 <ul>
   <li><strong><a href="https://github.com/epinki07/-SistemaFacturacion">SistemaFacturacion</a></strong> - REST invoicing API with Spring Boot, JPA, H2, MapStruct, Swagger and service tests.</li>
-  <li><strong><a href="https://github.com/epinki07/pos-restaurante">POS Restaurante</a></strong> - desktop POS system with Electron, React, SQLite, reports and 62 automated tests. Closed source.</li>
+  <li><strong><a href="https://github.com/epinki07/pos-restaurante">POS Restaurante</a></strong> - desktop POS system with local persistence, reports and 62 automated tests. Closed source.</li>
   <li><strong><a href="https://github.com/epinki07/FinanTrack">FinanTrack</a></strong> - Android finance app using Kotlin, Room, MVVM and .NET support modules. Closed source.</li>
   <li><strong><a href="https://github.com/epinki07/webtrack-2">WebTrack 2</a></strong> - product case study with a <a href="https://webtrack-2.pages.dev">public demo</a> and closed source implementation.</li>
   <li><strong><a href="https://github.com/epinki07/Pokedex-api">Pokedex API</a></strong> - REST API with Python, FastAPI and JSON data.</li>
@@ -162,8 +150,7 @@ High-value product codebases are closed source. Their public repositories exist 
 ## Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=epinki07&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=epinki07&layout=compact&theme=github_dark&hide_border=true" alt="Top languages">
+  <img src="assets/github-activity.svg" alt="GitHub activity snapshot for epinki07">
 </div>
 
 ## Use and rights

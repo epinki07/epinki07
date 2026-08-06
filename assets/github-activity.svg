@@ -1,0 +1,55 @@
+<svg width="860" height="250" viewBox="0 0 860 250" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub activity snapshot for epinki07</title>
+  <desc id="desc">Static GitHub profile activity card with public repository count, contribution count and main technologies.</desc>
+  <rect width="860" height="250" rx="8" fill="#0d1117"/>
+  <rect x="1" y="1" width="858" height="248" rx="7" stroke="#30363d"/>
+
+  <text x="32" y="42" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="700">Activity snapshot</text>
+  <text x="32" y="68" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="13">Public GitHub profile overview, generated from current repository data.</text>
+
+  <g transform="translate(32 95)">
+    <rect width="175" height="92" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="34" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">166</text>
+    <text x="18" y="58" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="13">contributions</text>
+    <text x="18" y="78" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="12">last 12 months</text>
+  </g>
+
+  <g transform="translate(225 95)">
+    <rect width="175" height="92" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="34" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">20</text>
+    <text x="18" y="58" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="13">public repositories</text>
+    <text x="18" y="78" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="12">profile evidence</text>
+  </g>
+
+  <g transform="translate(418 95)">
+    <rect width="175" height="92" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="34" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="700">4</text>
+    <text x="18" y="58" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="13">closed-source</text>
+    <text x="18" y="78" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="12">showcase projects</text>
+  </g>
+
+  <g transform="translate(611 95)">
+    <rect width="217" height="92" rx="8" fill="#161b22" stroke="#30363d"/>
+    <text x="18" y="30" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="15" font-weight="700">Main public languages</text>
+    <circle cx="22" cy="53" r="5" fill="#b07219"/>
+    <text x="34" y="58" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="13">Java</text>
+    <circle cx="86" cy="53" r="5" fill="#3572A5"/>
+    <text x="98" y="58" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="13">Python</text>
+    <circle cx="168" cy="53" r="5" fill="#e34c26"/>
+    <text x="180" y="58" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="13">HTML</text>
+    <circle cx="22" cy="74" r="5" fill="#f1e05a"/>
+    <text x="34" y="79" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="13">JavaScript</text>
+    <circle cx="122" cy="74" r="5" fill="#ff4a48"/>
+    <text x="134" y="79" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="13">Cairo</text>
+  </g>
+
+  <g transform="translate(32 210)">
+    <rect width="12" height="12" rx="2" fill="#161b22" stroke="#30363d"/>
+    <rect x="18" width="12" height="12" rx="2" fill="#0e4429"/>
+    <rect x="36" width="12" height="12" rx="2" fill="#006d32"/>
+    <rect x="54" width="12" height="12" rx="2" fill="#26a641"/>
+    <rect x="72" width="12" height="12" rx="2" fill="#39d353"/>
+    <text x="104" y="11" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="12">Active backend, mobile, cloud and automation portfolio.</text>
+    <text x="626" y="11" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="12">Updated Aug 2026</text>
+  </g>
+</svg>
