@@ -106,14 +106,18 @@ I am looking for internships or junior roles where I can contribute in backend, 
 
 ## Selected work
 
-| Project | Type | Stack | Status |
-|---|---|---|---|
-| [FinanTrack](https://github.com/epinki07/Proyecto-ArquitecturaDeSoftware) | Android finance app | Kotlin, Room, MVVM, .NET | Public |
-| [Pokedex API](https://github.com/epinki07/Pokedex-api) | REST API | Python, FastAPI, JSON | Public |
-| [SQAD](https://github.com/epinki07/SQAD) | Food quality control system | Java, OOP, CSV | Public |
-| [Food Sense](https://github.com/epinki07/food-sense) | IoT monitoring project | Node.js, ESP32, web | Public |
-| [starknet-contracts](https://github.com/epinki07/starknet-contracts) | Smart contracts | Cairo, StarkNet | Public |
-| [WebTrack 2](https://webtrack-2.pages.dev) | Product case study | JavaScript, Supabase, Cloudflare Pages | Demo public, code private |
+| Priority | Project | Type | Stack | Status |
+|---|---|---|---|---|
+| Core | [FinanTrack](https://github.com/epinki07/Proyecto-ArquitecturaDeSoftware) | Android finance app | Kotlin, Room, MVVM, .NET | Public |
+| Core | [WebTrack 2](https://webtrack-2.pages.dev) | Product case study | JavaScript, Supabase, Cloudflare Pages | Demo public, code private |
+| Core | [Pokedex API](https://github.com/epinki07/Pokedex-api) | REST API | Python, FastAPI, JSON | Public |
+| Core | [Market Backend](https://github.com/epinki07/market-backend-2026-3-b) | Spring Boot backend | Java, JPA, MapStruct, OpenAPI | Public |
+| Supporting | [SQAD](https://github.com/epinki07/SQAD) | Food quality control system | Java, OOP, CSV | Public |
+| Supporting | [Food Sense](https://github.com/epinki07/food-sense) | IoT monitoring project | Node.js, ESP32, web | Public |
+| Supporting | [starknet-contracts](https://github.com/epinki07/starknet-contracts) | Smart contracts | Cairo, StarkNet | Public |
+| Practice | [Conecta 4](https://github.com/epinki07/conecta4) | Algorithm project | Python, MinMax, Alpha-Beta | Public |
+
+Lower-signal exercises are intentionally not highlighted here. They remain useful as learning evidence, but the profile prioritizes projects that best represent current professional direction.
 
 ---
 
